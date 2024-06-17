@@ -3,8 +3,7 @@
 
 ## Demonstração
 
-Insira um gif ou um link de alguma demonstração
-
+Aqui estão as capturas de tela do projeto sendo executado no PowerBI web
 
 ## Screenshots
 
